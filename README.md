@@ -1,6 +1,6 @@
 # LDSSA Capstone (final project)
 
-![alt text](https://github.com/hrkbaltazar/ldssa-final-project/blob/master/report_1_capstone.pdf)
+<a href="https://github.com/hrkbaltazar/ldssa-final-project/blob/master/report_1_capstone.pdf" target="_blank">PDF.</a>
 
 ![alt text](https://github.com/hrkbaltazar/ldssa-final-project/blob/master/report_2_capstone.pdf)
 
